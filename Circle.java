@@ -32,7 +32,7 @@ public class Circle{
 	 }
 	 
 	 public double area(){
-	  	return pi * Math.pow(radius, 2); 
+	  	return pi * radius * radius; 
 	 }
 	 
 	 public String toString(){
